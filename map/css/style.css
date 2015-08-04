@@ -8,7 +8,7 @@ body {
 	stroke-width: .1px;
 	stroke-linejoin: round;
 }
-info {
+.info {
 	top: 0;
     	position: absolute;
 }

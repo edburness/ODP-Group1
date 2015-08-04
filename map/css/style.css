@@ -2,16 +2,17 @@ body {
 	background-color: #404040;
 	color: white;
 }
+.info {
+	top: 0;
+    	position: absolute;
+}
 .country {
 	fill: #ccc;
 	stroke: #666;
 	stroke-width: .1px;
 	stroke-linejoin: round;
 }
-.info {
-	top: 0;
-    	position: absolute;
-}
+
 }
 #map {
 	position: absolute;
